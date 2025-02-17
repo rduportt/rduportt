@@ -7,7 +7,7 @@ Currently student at 42 Paris 👨🏻‍💻📚
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## My current 42 Cursus
-- [piscine](https://github.com/beatrizdile/42sp-piscine) - Shell & C codes
+- [piscine](https://github.com/rduportt/piscine) - Shell & C codes
 
 ### Phase 1:
 
