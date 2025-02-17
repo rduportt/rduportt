@@ -1,5 +1,3 @@
-# Hello World! 👾
-
 ## About Me 💫
 Currently student at 42 Paris 👨🏻‍💻📚
 
